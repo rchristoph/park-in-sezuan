@@ -3,7 +3,7 @@
 In diesem Projekt wird das Kapitel 3 “Abend im Stadtpark” behandelt. Der Benutzer bewegt sich aus der Ich-Perspektive von Shen Te durch den Park.
 Während ihrem Spaziergang durch den Park nimmt die Geschichte ihren Lauf. Unterwegs bleibt Shen Te immer wieder an Schauplätzen stehen, an denen jeweils ein Teil des Kapitels erzählt wird. Bei solchen Ereignissen verlässt die Kamera die First-Person-Sicht und erlaubt es dem Benutzer z.B. das Gespräch zwischen Shen Te und Yang Sun als Beobachter wie im Theater zu betrachten. Der Weg durch die Szene ist hierbei vorgegeben, es wird eine festgelegte Einstellungsfolge geben. Der Benutzer hat also nicht die Möglichkeit, sich in der Geschichte hin und her zu bewegen.
 
-![](img\Sezuan.jpg)
+![](img/Sezuan.jpg)
 
 Unterschiedliche Lichtverhältnisse, Regen, Musik und akustische Untermalung werden zusätzlich eingesetzt um die Narration zu unterstützen. Die Dialoge werden eingesprochen und an jedem Schauplatz jeweils abgespielt.
 
