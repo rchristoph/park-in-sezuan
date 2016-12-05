@@ -18,7 +18,7 @@ Modelliert werden:
 
 Der Wasserverkäufer
 
-
+![](img/4078428_web.jpg)
 
 
 
@@ -44,7 +44,7 @@ Yang Sun
 
 Ein Schwarm Kraniche
 
-
+![](img/size=708x398.jpg)
 
 3D
 
