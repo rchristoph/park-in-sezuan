@@ -10,37 +10,23 @@ Unterschiedliche Lichtverhältnisse, Regen, Musik und akustische Untermalung wer
 Die Darstellung der Charaktere wird in 2D stattfinden, ähnlich wie in einem Comic. Die Landschaft wird in 3D dargestellt.
 
 
-Modelliert werden:
+## Modelliert werden:
 
 
-2D
+### 2D
 
 
 Der Wasserverkäufer
 
 ![](img/4078428_web.jpg)
 
-
-
-
-
 Shen Te
 
-
-
-
-
-
-
-
-
-
+![](img/Shen.jpg)
 
 Yang Sun
 
-
-
-
+![](img/Yang.jpg)
 
 Ein Schwarm Kraniche
 
