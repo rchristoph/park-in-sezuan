@@ -35,7 +35,7 @@ Ein Schwarm Kraniche
 ### 3D
 
 
-Parkgelände mit Rasen, Weg, ggf. einem Pavillon und Pflanzen   
+Parkgelände mit Rasen, Weg, einem Pavillon und Pflanzen   
 
 Fluss   
 
